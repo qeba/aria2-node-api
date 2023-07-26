@@ -7,3 +7,6 @@ This API should have the basic function such as;
 - Showing progress of download
 
 
+# Auth
+- Update token on the `aria-setup.sh` file. 
+- Then run the bash `aria-setup.sh` file. 
