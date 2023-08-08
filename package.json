@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-aria2c",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "The idea for this project is to enable API access to aria2 on a server. That can be interact using REST API.",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "iqbal",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}

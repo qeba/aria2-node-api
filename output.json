@@ -1,0 +1,69 @@
+{
+    "id": "2",
+    "jsonrpc": "2.0",
+    "result": {
+        "bitfield": "00000000000000000000000000",
+        "completedLength": "98304",
+        "connections": "8",
+        "dir": "/root/dev",
+        "downloadSpeed": "20214800",
+        "files": [
+            {
+                "completedLength": "0",
+                "index": "1",
+                "length": "104857600",
+                "path": "/root/dev/100MB.2.zip",
+                "selected": "true",
+                "uris": [
+                    {
+                        "status": "used",
+                        "uri": "http://ipv4.download.thinkbroadband.com/100MB.zip"
+                    },
+                    {
+                        "status": "used",
+                        "uri": "http://ipv4.download.thinkbroadband.com/100MB.zip"
+                    },
+                    {
+                        "status": "used",
+                        "uri": "http://ipv4.download.thinkbroadband.com/100MB.zip"
+                    },
+                    {
+                        "status": "used",
+                        "uri": "http://ipv4.download.thinkbroadband.com/100MB.zip"
+                    },
+                    {
+                        "status": "used",
+                        "uri": "http://ipv4.download.thinkbroadband.com/100MB.zip"
+                    },
+                    {
+                        "status": "used",
+                        "uri": "http://ipv4.download.thinkbroadband.com/100MB.zip"
+                    },
+                    {
+                        "status": "used",
+                        "uri": "http://ipv4.download.thinkbroadband.com/100MB.zip"
+                    },
+                    {
+                        "status": "used",
+                        "uri": "http://ipv4.download.thinkbroadband.com/100MB.zip"
+                    },
+                    {
+                        "status": "waiting",
+                        "uri": "http://ipv4.download.thinkbroadband.com/100MB.zip"
+                    },
+                    {
+                        "status": "waiting",
+                        "uri": "http://ipv4.download.thinkbroadband.com/100MB.zip"
+                    }
+                ]
+            }
+        ],
+        "gid": "191d9c9f0765b975",
+        "numPieces": "100",
+        "pieceLength": "1048576",
+        "status": "active",
+        "totalLength": "104857600",
+        "uploadLength": "0",
+        "uploadSpeed": "0"
+    }
+}
