@@ -137,3 +137,7 @@ dist
 
 # SvelteKit build / generate output
 .svelte-kit
+
+
+#exclude download directory 
+download/
